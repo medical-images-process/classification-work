@@ -1,4 +1,9 @@
 # knn
 基于knn算法实现的数字识别
 
-![](https://github.com/NateHuangHao/knn/raw/master/readme_image/demo.jpg)
+请阅读本说明：
+此程序包括训练测试集数据装在digits中。
+如需输入自己的图片进行测试，请命名为“数字.png”
+存入pictures中，生成的文件会出现在txt文件夹下
+不删除txt文件夹内容会多很多文件
+后续进行改善
